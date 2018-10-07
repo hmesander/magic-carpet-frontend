@@ -10,8 +10,10 @@ Magic Carpet is an All-In-One Adventure App that selects a restaurant based on g
 ## Screen Shots
 
 ![Log-In Page](./public/images/app.gif)
-
-
+![Main Page](./public/images/main.gif)
+![Settings Page](./public/images/settings.gif)
+![Loading Page](./public/images/carpet.gif)
+![Ride Page](./public/images/ride.gif)
 
 ## Initial Setup
 
